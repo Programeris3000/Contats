@@ -297,18 +297,6 @@ shopListElement.append(shopItemElement4)
           link11.setAttribute('target', '_blank')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 //MAPS WRAPPER KONTIKAS
 let mapWrapperElement = document.createElement('div')
 
